@@ -1,0 +1,18 @@
+.container-fluid{
+    border: 8px solid black;
+    height: 100%;
+    
+    
+
+
+    .main{
+        background-color: rgb(222,225,218);
+    }
+
+
+    .mr-auto{
+        border: 2px solid black;
+    }
+  
+
+}
